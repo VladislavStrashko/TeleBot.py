@@ -2,7 +2,7 @@ import telebot
 
 import random
     
-bot = telebot.TeleBot("8165131809:AAHc4Si6M_2x4YjFpCyx0hNbXciHtXIbxJQ")
+bot = telebot.TeleBot("Token")
 
 
 def gen_pass(pass_length):
